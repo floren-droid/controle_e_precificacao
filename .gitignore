@@ -1,0 +1,21 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc/
+*.egg-info/
+build/
+dist/
+
+# Dados reais
+*.xlsx
+*.pdf
+*.txt
+
+# Bat
+*.bat
+
+# Editor
+.vscode/
+.idea/
